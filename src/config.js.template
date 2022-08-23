@@ -3,7 +3,7 @@ var config = {
     accessToken: 'YOUR_ACCESS_TOKEN',
     showMarkers: true,
     markerColor: '#3FB1CE',
-    projection: 'equirectangular',
+    projection: 'globe',
     //Read more about available projections here
     //https://docs.mapbox.com/mapbox-gl-js/example/projections/  
     inset: true,
